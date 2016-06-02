@@ -1,2 +1,2 @@
-# Data_management
+# Data management
 Data Management software
